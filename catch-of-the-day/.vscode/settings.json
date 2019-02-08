@@ -1,0 +1,10 @@
+{
+  "editor.tabSize": 2,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.formatOnSave": true,
+  "editor.parameterHints.enabled": false,
+  "editor.quickSuggestions": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "editor.snippetSuggestions": "top",
+  "editor.quickSuggestionsDelay": 250
+}
